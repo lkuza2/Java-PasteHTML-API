@@ -5,5 +5,9 @@ package com.darkprograms.pastehtml.types;
  */
 public class PasteMD extends PasteType {
 
+    protected PasteMD() {
+
+    }
+
 
 }
