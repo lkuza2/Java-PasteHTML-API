@@ -8,5 +8,7 @@ This is the project for the PasteHTML API written in Java.  PasteHTML main websi
 * Paste anything to the website via a String or a File of any size
 * Paste any type. HTML, Text, or Markdown.
 * Retreives URL after paste
+* No external librarys required
+* Extremely small size and fast
 * Expandable.  More features can be easily added.
 * Somewhat documented
